@@ -1,0 +1,18 @@
+User-agent: Yandex 
+Disallow: /images
+Disallow: /Admin
+Disallow: /js
+Disallow: /index.php
+Host: https://all-watch.ru
+
+
+User-agent: Googlebot 
+Disallow: /images
+Disallow: /Admin
+Disallow: /index.php
+
+User-agent: *         
+Disallow: /images
+Disallow: /Admin
+Disallow: /index.php
+Sitemap: https://all-watch.ru/sitemap.xml
